@@ -21,7 +21,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Ajay Singh Khalsa
+### I am Zhouziwei
 - An ML & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
